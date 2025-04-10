@@ -1,0 +1,518 @@
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\trading simulator.exe.config
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\trading simulator.exe
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading .D4319CBD.Up2Date
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading simulator.exe
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\MovableForm.dll
+C:\Users\Kristián\source\repos\trading simulator\trading simulator\bin\Debug\MovableForm.pdb
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\trading simulator.exe.config
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\trading simulator.exe
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\MovableForm.pdb
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading .D4319CBD.Up2Date
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.exe
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\cnsl.dll
+D:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\cnsl.pdb
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\trading simulator.exe.config
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\trading simulator.exe
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\cnsl.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\cnsl.pdb
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\MovableForm.pdb
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.SuggestedBindingRedirects.cache
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CopyComplete
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.exe
+F:\Maturita\projekt\aplikace\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cnsl.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cnsl.pdb
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading .D4319CBD.Up2Date
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.exe.config
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.exe
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cnsl.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cnsl.pdb
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\MovableForm.pdb
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.SuggestedBindingRedirects.cache
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CopyComplete
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.exe
+H:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.exe.config
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.exe
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cnsl.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\cnsl.pdb
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\MovableForm.pdb
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.SuggestedBindingRedirects.cache
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CopyComplete
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.exe
+F:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.dll.config
+D:\Maturita\projekt\apps\trading simulator\trading simulator\bin\Debug\trading simulator.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\trading simulator.dll
+D:\Maturita\projekt\apps\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.TradingSimulator.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\trading simulator.dll.config
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\trading simulator.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\trading simulator.pdb
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\cs-CZ\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\ko-KR\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\vi-VN\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\zh-CN\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Bybit.Net.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\cnsl.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Buffers.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Memory.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Text.Json.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.ValueTuple.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Bybit.Net.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\cnsl.pdb
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\CryptoExchange.Net.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Http.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\Newtonsoft.Json.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Buffers.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.IO.Pipelines.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Memory.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Numerics.Vectors.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Text.Encodings.Web.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Text.Json.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\bin\Debug\System.ValueTuple.xml
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.AssemblyReference.cache
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\WindowsFormsApp1.TradingSimulator.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.cs-CZ.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.ko-KR.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.vi-VN.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading_simulator.Properties.Resources.zh-CN.resources
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.GenerateResource.cache
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading simulator.csproj.CoreCompileInputs.cache
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\cs-CZ\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\ko-KR\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\vi-VN\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\zh-CN\trading simulator.resources.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading .D4319CBD.Up2Date
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading simulator.dll
+D:\Maturita\projekt\apps - kopie (2)\trading simulator\trading simulator\obj\Debug\trading simulator.pdb
